@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    background-color: #1E90FF;
+    height:120px;
+   
+}
+.naglowek{
+   padding: 20px;
+}
+nav{
+    width: 100%;
+    background-color: hsl(210, 74%, 31%);
+    height: 40px;
+}
+main{
+    width: 70%;
+    background-color: #f70606;
+    height: 400px;
+    float: left;
+}
+.srodek{
+    margin: 40px;
+    text-align: center;
+    padding: 20px;
+
+}
+aside{
+    width: 30%;
+    background-color: #09ff00;
+    height: 400px;
+    float: left;
+}
+footer{
+    width: 100%;
+    background-color:yellow;
+    height: 40px;
+    clear: both;
+
+}
+
